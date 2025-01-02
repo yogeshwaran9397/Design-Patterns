@@ -1,0 +1,15 @@
+E:\Source Code\Yogesh\Playground\Design-Patterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.exe
+E:\Source Code\Yogesh\Playground\Design-Patterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.deps.json
+E:\Source Code\Yogesh\Playground\Design-Patterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.runtimeconfig.json
+E:\Source Code\Yogesh\Playground\Design-Patterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.dll
+E:\Source Code\Yogesh\Playground\Design-Patterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.pdb
+E:\Source Code\Yogesh\Playground\Design-Patterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source Code\Yogesh\Playground\Design-Patterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfoInputs.cache
+E:\Source Code\Yogesh\Playground\Design-Patterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfo.cs
+E:\Source Code\Yogesh\Playground\Design-Patterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.csproj.CoreCompileInputs.cache
+E:\Source Code\Yogesh\Playground\Design-Patterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.sourcelink.json
+E:\Source Code\Yogesh\Playground\Design-Patterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.dll
+E:\Source Code\Yogesh\Playground\Design-Patterns\DesignPatterns\obj\Debug\net8.0\refint\DesignPatterns.dll
+E:\Source Code\Yogesh\Playground\Design-Patterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.pdb
+E:\Source Code\Yogesh\Playground\Design-Patterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.genruntimeconfig.cache
+E:\Source Code\Yogesh\Playground\Design-Patterns\DesignPatterns\obj\Debug\net8.0\ref\DesignPatterns.dll
